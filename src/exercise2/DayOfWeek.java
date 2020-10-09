@@ -10,21 +10,21 @@ public class DayOfWeek {
         System.out.print("Enter a number: ");
         int a = input.nextInt();
         if (a==1){
-          System.out.println("Monday");
+          System.out.println("Day of week: Monday");
         } else if (a==2){
-          System.out.println("Tuesday");
+          System.out.println("Day of week: Tuesday");
         } else if (a==3){
-          System.out.println("Wednesday");
+          System.out.println("Day of week: Wednesday");
         } else if (a==4){
-          System.out.println("Thursday");
+          System.out.println("Day of week: Thursday");
         } else if (a==5){
-          System.out.println("Friday");
+          System.out.println("Day of week: Friday");
         } else if (a==6){
-          System.out.println("Saturday");
+          System.out.println("Day of week: Saturday");
         } else if (a==7){
-          System.out.println("Sunday");
+          System.out.println("Day of week: Sunday");
         } else {
-          System.out.println("Invalid day");
+          System.out.println("Day of week: Invalid day");
         }
 
         
